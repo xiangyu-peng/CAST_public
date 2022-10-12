@@ -1,6 +1,8 @@
-<img src="https://github.com/anonymous-hero/CAST/blob/master/images/figure_1.png" alt="drawing" width="400"/>
-
+## CAST
+This code accompanies the paper [Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning](https://arxiv.org/abs/2105.01311)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+<img src="https://github.com/anonymous-hero/CAST/blob/master/images/figure_1.png" alt="drawing" width="400"/>
 
 ## COMeT Filtering on GPT-2
 ![alt text](https://github.com/anonymous-hero/CAST/blob/master/images/pipeline.png)
