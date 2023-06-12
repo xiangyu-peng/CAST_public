@@ -1,3 +1,4 @@
+Pls contact me if you need processed data and model! xpeng62 at gatech dot edu.
 ## CAST
 This code accompanies the paper [Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning](https://arxiv.org/abs/2105.01311)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
